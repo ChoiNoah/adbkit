@@ -1,7 +1,5 @@
 (function() {
-  var Path;
-
-  Path = require('path');
+  var Path = require('path');
 
   module.exports = (function() {
         return require('./lib/adb');
